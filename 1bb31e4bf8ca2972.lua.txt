@@ -1,5 +1,5 @@
 -- ts file was generated at discord.gg/25ms
-
+-- so dont skid lil bro, check out: https://github.io/mizu-dump/Ihkaz.opensource.github.io [MZZHUB]
 
 local vu1 = loadstring(game:HttpGet("https://raw.githubusercontent.com/Footagesus/WindUI/main/dist/main.lua"))()
 local v2 = vu1
